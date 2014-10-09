@@ -1,0 +1,12 @@
+<package>
+  <name>rttlua_completion</name>
+  <description>"rttlua completion support</description>
+  <maintainer email="markus.klotzbuecher@mech.kuleuven.be">Markus Klotzbuecher</maintainer>
+  <author email="markus.klotzbuecher@mech.kuleuven.be">Markus Klotzbuecher</author>
+  <license>MIT</license>
+  <version>0.1.0</version>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
